@@ -1,2 +1,2 @@
-# projects
-A repository full of projects I have participated in or created. Mostly self led projects.
+# Login Bank WIP!
+# This repo shows my Login Bank I am working on, see commits for more info!
